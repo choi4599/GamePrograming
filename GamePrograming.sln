@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GamePrograming", "GameProgr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture02-HW", "Lecture02-HW\Lecture02-HW.vcxproj", "{3C466D16-8FA5-4B69-AEED-36D44758D1E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture04-HW", "Lecture04-HW\Lecture04-HW.vcxproj", "{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3C466D16-8FA5-4B69-AEED-36D44758D1E5}.Release|x64.Build.0 = Release|x64
 		{3C466D16-8FA5-4B69-AEED-36D44758D1E5}.Release|x86.ActiveCfg = Release|Win32
 		{3C466D16-8FA5-4B69-AEED-36D44758D1E5}.Release|x86.Build.0 = Release|Win32
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Debug|x64.ActiveCfg = Debug|x64
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Debug|x64.Build.0 = Debug|x64
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Debug|x86.Build.0 = Debug|Win32
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Release|x64.ActiveCfg = Release|x64
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Release|x64.Build.0 = Release|x64
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Release|x86.ActiveCfg = Release|Win32
+		{D9D89C0A-5317-4DCA-A94D-9F5CBC7D8593}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
